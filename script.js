@@ -71,5 +71,5 @@ function displayRadioValue() {
             
         }
     }
-    console.log("DONE")
+    
 }
